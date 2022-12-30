@@ -1,0 +1,9 @@
+Date: Fri, 28 Oct 2022 18:04:09 +0000
+To: Linux_LDAP_Sync@groups.hp.com
+Subject: Error in LDAP Sync - g7t15280g.inc.hpicorp.net
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Parent "host-g7t15280g.inc.hpicorp.net" group not found:
